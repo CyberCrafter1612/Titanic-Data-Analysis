@@ -30,3 +30,16 @@ It also builds a machine learning model to predict whether a passenger would sur
 git clone https://github.com/yourusername/Titanic-Data-Analysis-and-Survival-Prediction.git
 cd Titanic-Data-Analysis-and-Survival-Prediction
 pip install -r requirements.txt
+
+📊 Results & Insights
+Passengers in 1st class had the highest survival rate.
+Females had a significantly higher survival rate than males.
+Achieved XX% accuracy with Logistic Regression / Random Forest.
+
+🛠 Tools & Libraries
+Python, Pandas, NumPy
+Matplotlib, Seaborn
+Scikit-learn
+
+📜 Dataset
+The dataset is publicly available on Kaggle - Titanic: Machine Learning from Disaster.
